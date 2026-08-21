@@ -1,4 +1,4 @@
-const password = require('./models/password');
+const Password = require('./models/password');
 
 require('dotenv').config();
 const mongoose = require('mongoose');
